@@ -11,3 +11,8 @@ header{
 .logo{
     display: flex;
 }
+
+.count{
+    display: flex;
+    justify-content: space-around;
+}
