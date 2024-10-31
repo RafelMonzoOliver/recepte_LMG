@@ -6,6 +6,7 @@ header{
     display: flex;
     background-color: #fff0dc;
     align-items: center;
+    position: sticky;
 }
 
 .logo{
@@ -15,4 +16,18 @@ header{
 .count{
     display: flex;
     justify-content: space-around;
+}
+.fonssection{
+    margin: 0%;
+    background-image: url("/css/imatgescss/salsanaranja.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 420px;
+    width: 100%;
+}
+.posicio{
+    position: absolute;
+    top: 15%;
+    left: 15%;
 }
