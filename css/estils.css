@@ -48,3 +48,7 @@ header{
     border-color: #fff0dc;
     color: #a18c70;
 }
+.posicioleft{
+    position: absolute;
+    left: 5%;
+}
