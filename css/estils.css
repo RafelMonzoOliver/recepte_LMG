@@ -45,10 +45,25 @@ header{
     padding-inline: 5px;
     width: 70px;
     text-align: center;
-    border-color: #fff0dc;
-    color: #a18c70;
+    border-color: #aa7939;
+    color: #85653c;
 }
 .posicioleft{
     position: absolute;
     left: 5%;
+}
+.tamany{
+    width: 45%;
+}
+
+.lletrapet{
+    font-size: 12px;
+}
+.ordre{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.posicioright{
+    margin-right: 59px;
+    margin-top:57px;
 }
