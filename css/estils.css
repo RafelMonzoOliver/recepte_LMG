@@ -19,6 +19,7 @@ header{
 }
 .fonssection{
     margin: 0%;
+    margin-bottom: 40px;
     background-image: url("/css/imatgescss/salsanaranja.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -28,6 +29,22 @@ header{
 }
 .posicio{
     position: absolute;
-    top: 15%;
+    top: 25%;
     left: 15%;
+    color: #363636;
+}
+.posiciodown{
+    position: absolute;
+    top: 77%;
+    left: 15%;
+    font-size: 15px;
+}
+.redo{
+    border-radius: 30px;
+    border: solid;
+    padding-inline: 5px;
+    width: 70px;
+    text-align: center;
+    border-color: #fff0dc;
+    color: #a18c70;
 }
