@@ -25,18 +25,19 @@ header{
     background-position: center;
     background-size: cover;
     height: 420px;
+    max-height: 420px;
     width: 100%;
 }
 .posicio{
-    position: absolute;
-    top: 25%;
-    left: 15%;
+    position:absolute;
+    margin-top: 12%;
+    margin-left: 15%;
     color: #363636;
 }
 .posiciodown{
     position: absolute;
-    top: 77%;
-    left: 15%;
+    margin-top: 44%;
+    margin-left: 15%;
     font-size: 15px;
 }
 .redo{
