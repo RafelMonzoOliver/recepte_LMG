@@ -8,6 +8,13 @@ header{
     align-items: center;
     position: sticky;
 }
+footer{
+    height: 80px;
+    display: flex;
+    background-color: #e6e6e6;
+    align-items: center;
+    position: sticky;
+}
 
 .logo{
     display: flex;
@@ -56,6 +63,9 @@ header{
     position: absolute;
     margin-left: 5%;
 }
+.posicioleft1{
+    background-color: #fff0dc;
+}
 .tamany{
     width: 45%;
 }
@@ -71,6 +81,9 @@ header{
 .ordre{
     display: flex;
     flex-direction: row-reverse;
+}
+.ordre2{
+    margin-left: 40%;
 }
 .posicioright{
     margin-right: 59px;
@@ -120,6 +133,9 @@ header{
     font-size: 20px;
 }
 
+.lletragran1{
+    font-size: 35px;
+}
 @media screen and (max-width: 760px){
     .posicioright {
         float: left;
@@ -130,4 +146,17 @@ header{
         float: left;
         width: 48%;
     }
+}
+
+.autor{
+    background-color: #fff0dc;
+}
+
+.marginimag{
+    margin-left: 5%;
+}
+
+.lletautor{
+    display: flex;
+    align-items: center;
 }
